@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.timer {
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+#tempo {
+    font-size: 48px;
+}
+
+.botoes {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+#listaTempos {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+#listaTempos li {
+    margin-bottom: 5px;
+}
